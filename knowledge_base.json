@@ -1,0 +1,99 @@
+{
+  "organization": {
+    "name": "NayePankh Foundation",
+    "tagline": "It's that easy to bring a Smile on Their Faces",
+    "founded": "2021",
+    "type": "Youth-led Government Registered NGO",
+    "registration": "UP Government, 80G & 12A Certified",
+    "website": "https://www.nayepankh.com",
+    "email": "contact@nayepankh.com",
+    "phone": "+91-8318500748",
+    "founder": "Prashant Shukla",
+    "active_cities": ["Kanpur", "Ghaziabad"],
+    "social_media": {
+      "instagram": "@nayepankh",
+      "linkedin": "NayePankh Foundation"
+    }
+  },
+  "programs": [
+    {
+      "name": "Food Distribution",
+      "description": "Providing nutritious meals to underprivileged families across Kanpur and Ghaziabad",
+      "impact": "Thousands of meals served since 2021"
+    },
+    {
+      "name": "Hygiene & Sanitation",
+      "description": "Distributing sanitary napkins and conducting hygiene awareness campaigns for young women and girls",
+      "impact": "Hundreds of women reached with hygiene education"
+    },
+    {
+      "name": "Clothing Drives",
+      "description": "Collecting and distributing clothes to marginalized communities, especially during winters",
+      "impact": "Seasonal drives helping hundreds of families"
+    },
+    {
+      "name": "Education Initiative",
+      "description": "Teaching underprivileged children, providing study materials, and conducting educational awareness programs to break the poverty cycle",
+      "impact": "Regular teaching sessions in Kanpur and Ghaziabad"
+    },
+    {
+      "name": "Animal Welfare",
+      "description": "Feeding stray animals and conducting awareness about animal welfare",
+      "impact": "Regular feeding drives for stray dogs and cats"
+    }
+  ],
+  "volunteering": {
+    "how_to_join": "Contact us at contact@nayepankh.com or through the chatbot to express your interest. Our city coordinator will reach out within 24 hours.",
+    "roles_available": [
+      "Education Volunteer (Teaching)",
+      "Social Media & Content Creation",
+      "Event Management & Logistics",
+      "Fundraising & Donor Relations",
+      "Photography & Videography",
+      "AI & Technology (Internship)"
+    ],
+    "requirements": "No specific requirements — just passion and commitment to our mission!",
+    "time_commitment": "Flexible — even a few hours a week makes a difference"
+  },
+  "internships": {
+    "available": true,
+    "types": ["AI Web Development", "AI/ML Projects", "Content Creation", "Social Media Management", "Event Management"],
+    "duration": "Usually 1-3 months",
+    "certificate": "Yes, government-recognized internship certificate provided",
+    "stipend": "Voluntary (unpaid) internship with certificate and experience",
+    "how_to_apply": "Email your resume to contact@nayepankh.com with subject line 'Internship Application'"
+  },
+  "donations": {
+    "modes": ["Razorpay (Credit/Debit Card, UPI, Net Banking)", "Direct Bank Transfer"],
+    "tax_benefit": "Yes — 50% tax exemption under Section 80G of the Indian Income Tax Act",
+    "min_amount": "Any amount is welcome — every rupee counts!",
+    "receipt": "Donation receipts provided for all contributions",
+    "how_to_donate": "Visit nayepankh.com and click 'Donate Now', or ask me to guide you!"
+  },
+  "faq": [
+    {
+      "question": "Is NayePankh Foundation a legitimate NGO?",
+      "answer": "Yes! NayePankh Foundation is registered with the UP Government and holds both 80G and 12A certifications, making donations eligible for tax exemption."
+    },
+    {
+      "question": "Can I get a tax benefit on my donation?",
+      "answer": "Yes! Donations to NayePankh are eligible for 50% tax exemption under Section 80G of the Indian Income Tax Act. We provide official receipts for all donations."
+    },
+    {
+      "question": "How can I volunteer?",
+      "answer": "You can volunteer by sharing your name, email, city, and skills through this chat. Our city coordinator will contact you within 24 hours!"
+    },
+    {
+      "question": "What cities are you active in?",
+      "answer": "We are currently active in Kanpur and Ghaziabad, with plans to expand further."
+    },
+    {
+      "question": "How was NayePankh started?",
+      "answer": "NayePankh Foundation was started in 2021 by Prashant Shukla and fellow high school students during the COVID-19 pandemic to help communities in need. What began as a small relief effort has grown into a registered NGO with hundreds of volunteers."
+    },
+    {
+      "question": "Can I apply for an internship?",
+      "answer": "Yes! We offer internships in AI/tech, content creation, social media, and event management. Email contact@nayepankh.com with subject 'Internship Application' along with your resume."
+    }
+  ]
+}
